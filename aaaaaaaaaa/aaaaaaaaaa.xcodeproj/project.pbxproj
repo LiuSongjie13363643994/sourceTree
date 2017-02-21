@@ -17,6 +17,7 @@
 		C72C5CEE1E3069B400629EF1 /* aaaaaaaaaaUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = C72C5CED1E3069B400629EF1 /* aaaaaaaaaaUITests.m */; };
 		C77100E01E330F6F005D13AC /* baseAnimationView.m in Sources */ = {isa = PBXBuildFile; fileRef = C77100DF1E330F6F005D13AC /* baseAnimationView.m */; };
 		C77100E31E330FA4005D13AC /* fadeAnimationView.m in Sources */ = {isa = PBXBuildFile; fileRef = C77100E21E330FA4005D13AC /* fadeAnimationView.m */; };
+		C77C60FE1E5C5056003721FF /* noUse.m in Sources */ = {isa = PBXBuildFile; fileRef = C77C60FD1E5C5056003721FF /* noUse.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,8 @@
 		C77100DF1E330F6F005D13AC /* baseAnimationView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = baseAnimationView.m; sourceTree = "<group>"; };
 		C77100E11E330FA4005D13AC /* fadeAnimationView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = fadeAnimationView.h; sourceTree = "<group>"; };
 		C77100E21E330FA4005D13AC /* fadeAnimationView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = fadeAnimationView.m; sourceTree = "<group>"; };
+		C77C60FC1E5C5056003721FF /* noUse.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = noUse.h; sourceTree = "<group>"; };
+		C77C60FD1E5C5056003721FF /* noUse.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = noUse.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +118,8 @@
 				C77100DF1E330F6F005D13AC /* baseAnimationView.m */,
 				C77100E11E330FA4005D13AC /* fadeAnimationView.h */,
 				C77100E21E330FA4005D13AC /* fadeAnimationView.m */,
+				C77C60FC1E5C5056003721FF /* noUse.h */,
+				C77C60FD1E5C5056003721FF /* noUse.m */,
 				C72C5CD11E3069B400629EF1 /* Main.storyboard */,
 				C72C5CD41E3069B400629EF1 /* Assets.xcassets */,
 				C72C5CD61E3069B400629EF1 /* LaunchScreen.storyboard */,
@@ -283,6 +288,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C77C60FE1E5C5056003721FF /* noUse.m in Sources */,
 				C77100E31E330FA4005D13AC /* fadeAnimationView.m in Sources */,
 				C77100E01E330F6F005D13AC /* baseAnimationView.m in Sources */,
 				C72C5CD01E3069B400629EF1 /* ViewController.m in Sources */,
